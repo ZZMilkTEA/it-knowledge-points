@@ -1,0 +1,6 @@
+[submodule "back-end-knowledge-points"]
+	path = back-end-knowledge-points
+	url = https://github.com/ZZMilkTEA/back-end-knowledge-points
+[submodule "front-end-knowledge-points"]
+	path = front-end-knowledge-points
+	url = https://github.com/ZZMilkTEA/front-end-knowledge-points
