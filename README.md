@@ -20,3 +20,4 @@
 # 目录
 - [后端知识点](https://github.com/ZZMilkTEA/it-knowledge-points/tree/master/back-end-knowledge-points)
 - [前端知识点](https://github.com/ZZMilkTEA/it-knowledge-points/tree/master/front-end-knowledge-points)
+- [计算机通用技能知识点](https://github.com/ZZMilkTEA/it-knowledge-points/tree/master/computer-general-skills)
